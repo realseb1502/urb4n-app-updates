@@ -3,7 +3,7 @@
 Ce dépôt public contient les fichiers de distribution Windows et leurs manifestes SHA-256.
 Le code de l’application et les configurations personnelles restent privés.
 
-- [Télécharger la dernière version](https://github.com/realseb1502/godin-watch-updates/releases/latest)
+- [Télécharger la dernière version](https://github.com/realseb1502/urb4n-app-updates/releases/latest)
 - [Site URB4N APP](https://urb4n-app.github.io/)
 - [Confidentialité](https://urb4n-app.github.io/confidentialite.html)
 
